@@ -1,0 +1,227 @@
+[
+    {
+        "created": "2025-01-29T11:31:51.749-03:00",
+        "event_name": "new_lead",
+        "user_id": "382",
+        "lead": {
+            "name": "Gabriella Antonia Quibau Domingues",
+            "phone": "5515998044405",
+            "email": "gabriella.quibau@hotmail.com",
+            "obs": []
+        },
+        "midia": {
+            "channel": "Facebook ads",
+            "page": "Feir\u00e3o de Apartamentos",
+            "property_id": "LeadForm - Barra Funda - Feir\u00e3o - Jan25",
+            "business": "Indefinido",
+            "url": null,
+            "rule_keyword": null
+        },
+        "broker": {
+            "broker_name": "Agent Developer",
+            "broker_whatsapp": "21990872427",
+            "broker_cpf": ""
+        },
+        "data_hora": "29/01/2025 11:31:52"
+    },
+    {
+        "created": "2025-01-29T11:32:02.947-03:00",
+        "event_name": "new_lead",
+        "user_id": "382",
+        "lead": {
+            "name": "Pedro Rogerio",
+            "phone": "5511976239569",
+            "email": "rogeriolimapedro1993@gmail.com",
+            "obs": []
+        },
+        "midia": {
+            "channel": "Facebook ads",
+            "page": "Feir\u00e3o de Apartamentos",
+            "property_id": "LeadForm - Connection Klabin - Feir\u00e3o - Jan25",
+            "business": "Indefinido",
+            "url": null,
+            "rule_keyword": null
+        },
+        "broker": {
+            "broker_name": "Agent Developer",
+            "broker_whatsapp": "21990872427",
+            "broker_cpf": ""
+        },
+        "data_hora": "29/01/2025 11:32:03"
+    },
+    {
+        "created": "2025-01-29T11:36:33.938-03:00",
+        "event_name": "new_lead",
+        "user_id": "382",
+        "lead": {
+            "name": "Thiago Fernandes teste2818",
+            "phone": "5521990872427",
+            "email": "suporte.iprodutora@gmail.com",
+            "obs": []
+        },
+        "midia": {
+            "channel": "Facebook ads",
+            "page": "Feir\u00e3o de Apartamentos",
+            "property_id": "LeadForm - Connection Klabin - Feir\u00e3o - Jan25",
+            "business": "Indefinido",
+            "url": null,
+            "rule_keyword": null
+        },
+        "broker": {
+            "broker_name": "Agent Developer",
+            "broker_whatsapp": "21990872427",
+            "broker_cpf": ""
+        },
+        "data_hora": "29/01/2025 11:36:34"
+    },
+    {
+        "created": "2025-01-29T11:36:36.812-03:00",
+        "event_name": "new_lead",
+        "user_id": "382",
+        "lead": {
+            "name": "Michael Oliveira De Jesus Oliveira",
+            "phone": "5511982153208",
+            "email": "maiconoliveiraoliveira231@gmail.com",
+            "obs": []
+        },
+        "midia": {
+            "channel": "Facebook ads",
+            "page": "Feir\u00e3o de Apartamentos",
+            "property_id": "LeadForm - Barra Funda - Feir\u00e3o - Jan25",
+            "business": "Indefinido",
+            "url": null,
+            "rule_keyword": null
+        },
+        "broker": {
+            "broker_name": "Agent Developer",
+            "broker_whatsapp": "21990872427",
+            "broker_cpf": ""
+        },
+        "data_hora": "29/01/2025 11:36:36"
+    },
+    {
+        "created": "2025-01-29T11:36:59.238-03:00",
+        "event_name": "new_lead",
+        "user_id": "382",
+        "lead": {
+            "name": "Rosemary louren\u00e7o macedo",
+            "phone": "5517997870471",
+            "email": "macedomeiry075@gmail.com",
+            "obs": []
+        },
+        "midia": {
+            "channel": "Facebook ads",
+            "page": "Feir\u00e3o de Apartamentos",
+            "property_id": "LeadForm - Connection Mooca - Feir\u00e3o - Jan25",
+            "business": "Indefinido",
+            "url": null,
+            "rule_keyword": null
+        },
+        "broker": {
+            "broker_name": "Agent Developer",
+            "broker_whatsapp": "21990872427",
+            "broker_cpf": ""
+        },
+        "data_hora": "29/01/2025 11:36:59"
+    },
+    {
+        "created": "2025-01-29T11:42:24.856-03:00",
+        "event_name": "new_lead",
+        "user_id": "382",
+        "lead": {
+            "name": "Felipe Silva",
+            "phone": "5511947385010",
+            "email": "fs9751503@gmail.com",
+            "obs": []
+        },
+        "midia": {
+            "channel": "Facebook ads",
+            "page": "Feir\u00e3o de Apartamentos",
+            "property_id": "LeadForm - Barra Funda - Feir\u00e3o - Jan25",
+            "business": "Indefinido",
+            "url": null,
+            "rule_keyword": null
+        },
+        "broker": {
+            "broker_name": "Agent Developer",
+            "broker_whatsapp": "21990872427",
+            "broker_cpf": ""
+        },
+        "data_hora": "29/01/2025 11:42:25"
+    },
+    {
+        "created": "2025-01-29T11:43:24.074-03:00",
+        "event_name": "new_lead",
+        "user_id": "382",
+        "lead": {
+            "name": "Adriana Tomaz de Andrade",
+            "phone": "5511983961434",
+            "email": "dricatandrade@hotmail.com",
+            "obs": []
+        },
+        "midia": {
+            "channel": "Facebook ads",
+            "page": "Feir\u00e3o de Apartamentos",
+            "property_id": "LeadForm - Barra Funda - Feir\u00e3o - Jan25",
+            "business": "Indefinido",
+            "url": null,
+            "rule_keyword": null
+        },
+        "broker": {
+            "broker_name": "Agent Developer",
+            "broker_whatsapp": "21990872427",
+            "broker_cpf": ""
+        },
+        "data_hora": "29/01/2025 11:43:24"
+    },
+    {
+        "created": "2025-01-29T11:45:56.763-03:00",
+        "event_name": "new_lead",
+        "user_id": "382",
+        "lead": {
+            "name": "Josivan Santos",
+            "phone": "5599996454307",
+            "email": "josivan@live.com",
+            "obs": []
+        },
+        "midia": {
+            "channel": "Facebook ads",
+            "page": "Feir\u00e3o de Apartamentos",
+            "property_id": "LeadForm - Connection Klabin - Feir\u00e3o - Jan25",
+            "business": "Indefinido",
+            "url": null,
+            "rule_keyword": null
+        },
+        "broker": {
+            "broker_name": "Agent Developer",
+            "broker_whatsapp": "21990872427",
+            "broker_cpf": ""
+        },
+        "data_hora": "29/01/2025 11:45:57"
+    },
+    {
+        "created": "2025-01-29T11:46:01.303-03:00",
+        "event_name": "new_lead",
+        "user_id": "382",
+        "lead": {
+            "name": "xandy",
+            "phone": "5527988355516",
+            "email": "xandychoco@gmail.com",
+            "obs": []
+        },
+        "midia": {
+            "channel": "Facebook ads",
+            "page": "Feir\u00e3o de Apartamentos",
+            "property_id": "LeadForm - Barra Funda - Feir\u00e3o - Jan25",
+            "business": "Indefinido",
+            "url": null,
+            "rule_keyword": null
+        },
+        "broker": {
+            "broker_name": "Agent Developer",
+            "broker_whatsapp": "21990872427",
+            "broker_cpf": ""
+        },
+        "data_hora": "29/01/2025 11:46:01"
+    }
+]
