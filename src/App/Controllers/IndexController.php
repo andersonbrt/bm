@@ -1017,6 +1017,10 @@ class IndexController extends BaseController
             $payload['cadastro']['lead']['veiculo'] = $data["agente_id"];
         }
 
+        if (isset($data['app_conversion']) && $data['app_conversion'] == 'prime') {
+            $payload['cadastro']['lead']['veiculo'] = $data['app_conversion'];
+        }
+
         $baseUrl = "https://cli21423-rest.vistahost.com.br/lead?key=06fd20dabb96eb04a2c761a9ee8feff8";
 
         $response = $this->getRequest($baseUrl, 'POST', $payload);
